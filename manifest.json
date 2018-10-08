@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2, //固定的
+    "name": "NewTab", //插件名称
+    "version": "1.0", //插件使用的版本
+    "description": "A new tab without any content", //插件的描述
+    "icons": {"16": "newtab_16.png", "48": "newtab_48.png", "128": "newtab_128.png"},
+    "browser_action": { //插件加载后生成图标
+        "default_icon": "newtab.png",//图标的图片
+        "default_title": "新标签页"//鼠标移到图标显示的文字
+        // "default_popup": "newtab.html" //单击图标执行的文件
+    },
+    "chrome_url_overrides":{
+        "newtab":"newtab.html"
+    },
+    "permissions": [ //插件的权限
+
+    ]
+}
