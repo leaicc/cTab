@@ -11,8 +11,5 @@
 基于以上3点，这个插件就诞生了
 
 ### 使用指南
-1. clone 本仓库到本地
-2. 打开浏览器扩展安装页面
-3. 点击「加载解压缩的扩展」
-4. 选择 clone 到本地的文件夹
+目前插件已经上架到 Edge 浏览器插件应用商店，直接搜索 "cTab" 或者点击直达链接：[cTab](https://microsoftedge.microsoft.com/addons/detail/pkbnhcijnkdpabmhcnelbmkpcobbffbm)
 

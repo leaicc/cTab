@@ -2,7 +2,7 @@
     "manifest_version": 2, //固定的
     "name": "cTab", //插件名称
     "version": "1.0", //插件使用的版本
-    "description": "一个干干净净的新标签页", //插件的描述
+    "description": "一个空白的新标签页", //插件的描述
     "icons": {"16": "cTab_16.png", "48": "cTab_48.png", "128": "cTab_128.png"},
     "browser_action": { //插件加载后生成图标
         "default_icon": "cTab.png",//图标的图片
