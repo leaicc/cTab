@@ -1,6 +1,6 @@
-# cTab：Edge/Chrome 新标签页扩展
+# cTab：Edge 新标签页扩展
 
-如你所见，这是一个空白的新标签页，并且支持深色模式
+cTab 是一个空白的新标签页，支持深色模式
 ![](https://github.com/leaicc/Image/blob/main/cTab/light.png)
 ![](https://github.com/leaicc/Image/blob/main/cTab/dark.png)
  
