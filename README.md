@@ -1,7 +1,8 @@
 # cTab：Edge/Chrome 新标签页扩展
 
-如你所见，这是一个空白的新标签页
-![](https://github.com/leaicc/Image/blob/main/cTab/SP20211113220221.jpg)
+如你所见，这是一个空白的新标签页，并且支持深色模式
+![](https://github.com/leaicc/Image/blob/main/cTab/light.png)
+![](https://github.com/leaicc/Image/blob/main/cTab/dark.png)
  
 ### 想法
 1. 习惯于在打开浏览器或者点击「新建标签页(Ctrl+T)」时，直接在地址栏输入想要搜索的内容，然后回车完成搜索  
