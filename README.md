@@ -1,6 +1,6 @@
 # cTab：Edge 新标签页扩展
 
-cTab 是一个空白的新标签页，支持深色模式
+cTab 是一个空白的新标签页，并且支持深色模式
 ![](https://github.com/leaicc/Image/blob/main/cTab/light.png)
 ![](https://github.com/leaicc/Image/blob/main/cTab/dark.png)
  
@@ -13,4 +13,6 @@ cTab 是一个空白的新标签页，支持深色模式
 
 ### 使用指南
 目前插件已经上架到 Edge 浏览器插件应用商店，直接搜索 "cTab" 或者点击直达链接：[cTab](https://microsoftedge.microsoft.com/addons/detail/pkbnhcijnkdpabmhcnelbmkpcobbffbm)
+
+###### 注：支持深色模式的版本已于 2022.08.01 提交到 Edge 浏览器插件应用商店，但是，到现在都没审核完，所以，再等等吧
 
